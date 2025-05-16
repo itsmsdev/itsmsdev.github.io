@@ -1,2 +1,0 @@
-# itsmsdev.github.io
-MyPortfolio
